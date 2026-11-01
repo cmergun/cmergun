@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Cem Ergün 👋
 
-<!--
-**cmergun/cmergun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Business Analyst & Technical Project Manager** with a software development background.
 
-Here are some ideas to get you started:
+For ~10 years at **Setrow** I worked with the job title *Software Developer*, while most of my day-to-day work was business analysis and technical project coordination. I translate business needs into clear, buildable requirements and can speak the same language as the dev team.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I do
+- Requirements analysis for **360+ corporate clients**
+- Turning client briefs into technical specifications, user stories and acceptance criteria (Given/When/Then)
+- Test scenarios, use cases and go-live processes
+- Team coordination and prioritizing ERP requests
+
+### Toolbox
+- **Analysis & modeling:** BRD, BPMN, UML (use case, sequence diagrams), wireframes, draw.io
+- **Agile delivery:** Scrum, Jira (backlog, sprints, JQL, dashboards)
+- **Technical:** JavaScript, PHP, SQL, REST APIs, JSON
+- **Interests:** AI & MCP, workflow automation (n8n), CRM / MarTech
+
+### Selected projects
+- **WhatsApp Marketing module (Setrow):** requirements analysis and frontend development
+- **Digital Signature project (Setrow)**
+
+### Portfolio
+📂 Coming soon: BA case studies (BRD, process models, wireframes), SQL analysis exercises and automation projects.
+
+📍 Bursa, Türkiye · Open to BA / Technical PM roles (on-site in Bursa or remote)
