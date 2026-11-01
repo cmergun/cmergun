@@ -5,7 +5,7 @@
 For ~10 years at **Setrow** I worked with the job title *Software Developer*, while most of my day-to-day work was business analysis and technical project coordination. I translate business needs into clear, buildable requirements and can speak the same language as the dev team.
 
 ### What I do
-- Requirements analysis for **360+ corporate clients**
+- **Client requirements analysis** for corporate clients
 - Turning client briefs into technical specifications, user stories and acceptance criteria (Given/When/Then)
 - Test scenarios, use cases and go-live processes
 - Team coordination and prioritizing ERP requests
